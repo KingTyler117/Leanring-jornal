@@ -1,0 +1,2 @@
+# Leanring-jornal
+Growth Mindset 
