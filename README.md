@@ -1,2 +1,2 @@
 # Leanring-jornal
-Growth Mindset 
+#H1 Growth Mindset 
